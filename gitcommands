@@ -1,0 +1,28 @@
+git is controll version tool it's help to two developers work together we track all the chenges as control
+git is open source tool
+
+
+git process we have 3 stages;
+1.working directory
+2.staging area
+3.local repository
+git add:- where we can add files to push remote repository
+
+what is git status?
+
+to check the ststus of the files files wheather adiing into staging area or not
+
+what is git "commit -m"?
+
+whatever files are there staging area all files move into the local repository
+
+what is git push command ?
+
+whenever you run this command whatever files are there local repository all files move into remote repository
+
+what is staging area ?
+   where we can add a file  to initiate the process to push repository
+
+what is gitprocess ?
+ 
+   the gt process is nothing but versioning we have to be track berfore push the code into re mote
